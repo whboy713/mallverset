@@ -1,5 +1,5 @@
 
-## mallverset 是一个基于SpringBootde商城项目
+## mallverset 是一个基于SpringBoot的商城项目
 ```
 git remote add origin https://github.com/whboy713/mallverset.git
 -- 本地master提交远程main 
